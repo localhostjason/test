@@ -1,0 +1,17 @@
+.idea
+__pycache__
+migrations/
+upload/
+db/
+*.pyc
+
+venv/
+
+*.pyc
+__pycache__/
+
+instance/
+
+.pytest_cache/
+.coverage
+htmlcov/
